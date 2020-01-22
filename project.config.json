@@ -11,6 +11,8 @@
 	"libVersion": "game",
 	"appid": "wx6fd47d3edd5b64c1",
 	"projectname": "sevenCatchToy",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
