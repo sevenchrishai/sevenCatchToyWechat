@@ -8,7 +8,7 @@
 		"newFeature": false
 	},
 	"compileType": "game",
-	"libVersion": "game",
+	"libVersion": "2.0.4",
 	"appid": "wx6fd47d3edd5b64c1",
 	"projectname": "sevenCatchToy",
 	"simulatorType": "wechat",
